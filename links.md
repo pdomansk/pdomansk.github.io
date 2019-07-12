@@ -17,5 +17,5 @@ title: Links
 
 
 **MongoDB**
-[Podstawowe polecenia administracyjne](_page/mondo)
+[Podstawowe polecenia administracyjne](_page/mongodb)
 
