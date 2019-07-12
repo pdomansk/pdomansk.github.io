@@ -1,3 +1,8 @@
+---
+layout: page
+title: MongoDB
+---
+
 ** Podtawowe polecenia administracyjne **
 
 show dbs - pokazuje jakie mamy utworzone bazy danych i ile miejsa zajmują
