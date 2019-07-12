@@ -1,5 +1,5 @@
 ---
-title: Zaczynamy pisanie 
+title: Zaczynamy 
 published: true
 ---
 
