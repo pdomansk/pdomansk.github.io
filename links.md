@@ -5,7 +5,9 @@ title: Links
 # [](#header-1)Przydatne Linki
 
 **Fora internetowe**
+
 [Stack Exchange](https://dba.stackexchange.com/)
+
 [SQL Server Central](https://www.sqlservercentral.com/)
 
 
