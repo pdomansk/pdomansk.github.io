@@ -18,12 +18,16 @@ title: Links
 
 [Kendra Little](https://littlekendra.com/)
 
+[Ola Hallegren](https://ola.hallengren.com)
+
 
 **Przydatne rozwiązania**
 
 [Opis pól dla Dashbordu Always On](https://docs.microsoft.com/en-us/sql/database-engine/availability-groups/windows/use-the-always-on-dashboard-sql-server-management-studio?view=sql-server-2017)
 
 [First Response Kit from Brent Ozar](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit/tree/master)
+
+[SQL Server Maintenance Solution](https://github.com/olahallengren/sql-server-maintenance-solution )
 
 
 **MongoDB**
