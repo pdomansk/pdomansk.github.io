@@ -4,12 +4,30 @@ title: Links
 ---
 # [](#header-1)Przydatne Linki
 
-**Fora internetowe**
+**Fora internetowe i inne**
 
+[!!! **Tiger Tollbox ** !!!](https://github.com/Microsoft/tigertoolbox) - oficjalne repozytorium Microsoft SQL Server na GitHub
 
 [Stack Exchange](https://dba.stackexchange.com/)
 
 [SQL Server Central](https://www.sqlservercentral.com/)
+
+[MS SQL Tips](https://www.mssqltips.com/sql-server-dba-resources/)
+
+[PASS](https://www.pass.org/)
+
+[Data Community](http://datacommunity.pl/)
+
+[Microsoft SQL Server Versions List](http://sqlserverbuilds.blogspot.com/)
+
+**Zasoby GitHub dla SQL Server**
+
+[SQL Nexus](https://github.com/Microsoft/SqlNexus)
+
+[SqlCeToolbox](https://github.com/ErikEJ/SqlCeToolbox)
+
+[SQL Server PowerShell Extensions](https://github.com/MikeShepard/SQLPSX/)
+
 
 
 **Ci ważniejsi od SQL Servera**
@@ -21,6 +39,8 @@ title: Links
 [Kendra Little](https://littlekendra.com/)
 
 [Ola Hallegren](https://ola.hallengren.com)
+
+[Steve Mogran](https://seniordba.wordpress.com/)
 
 
 **Przydatne rozwiązania**
