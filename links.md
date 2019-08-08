@@ -42,6 +42,7 @@ title: Links
 
 [Steve Mogran](https://seniordba.wordpress.com/)
 
+[Pinal Dave SQL Authority](https://blog.sqlauthority.com/)
 
 **Przydatne rozwiązania**
 
