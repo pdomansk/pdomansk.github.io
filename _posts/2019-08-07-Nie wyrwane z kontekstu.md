@@ -1,5 +1,5 @@
 ---
-title: Nie wyrwane z kontekstu część #1 - ważne do zrobienia
+title: Nie wyrwane z kontekstu część 1 - ważne do zrobienia
 published: true
 ---
 
