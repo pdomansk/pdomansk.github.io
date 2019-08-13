@@ -88,3 +88,11 @@ title: Links
 
 [How to Do a SQL Server Architecture Review](https://www.brentozar.com/archive/2017/10/sql-server-architecture-review/)
 
+
+**Indeksy**
+
+[Stairway to SQL Server Indexes](https://www.sqlservercentral.com/stairways/stairway-to-sql-server-indexes)
+
+[Stairway to Columnstore Indexes](https://www.sqlservercentral.com/stairways/stairway-to-columnstore-indexes)
+
+[Indexing on Brent Ozar](https://www.brentozar.com/archive/category/indexing/)
