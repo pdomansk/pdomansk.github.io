@@ -44,6 +44,8 @@ title: Links
 
 [Pinal Dave SQL Authority](https://blog.sqlauthority.com/)
 
+[Ben Miller](https://dbaduck.com/)
+
 **Przydatne rozwiązania**
 
 [Narzędzia do migracji i monitorowania **PowerShell**](https://dbatools.io)
@@ -75,6 +77,14 @@ title: Links
 [DBA Training Plan 7: How SQL Server Stores Stuff in MDF Files](https://www.brentozar.com/archive/2019/07/dba-training-plan-7-how-sql-server-stores-stuff-in-mdf-files/)
 
 [DBA Training Plan 8: What’s Inside Your Own Databases](https://www.brentozar.com/archive/2019/08/dba-training-plan-8-whats-inside-your-own-databases/)
+
+[DBA Training Plan 9: My 3 Index Guidelines](https://www.brentozar.com/archive/2019/08/dba-training-plan-9-my-3-index-guidelines/)
+
+[DBA Training Plan 10: Managing Index Fragmentation](https://www.brentozar.com/archive/2019/08/dba-training-plan-10-managing-index-fragmentation/)
+
+[DBA Training Plan 11: The Basics of Executing a Query](https://www.brentozar.com/archive/2019/08/dba-training-plan-11-the-basics-of-executing-a-query/)
+
+[DBA Training Plan 12: What Query Plans Are In Cache?](https://www.brentozar.com/archive/2019/08/dba-training-plan-12-what-query-plans-are-in-cache/)
 
 
 **First Responder Kit i więcej**
