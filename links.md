@@ -86,6 +86,8 @@ title: Links
 
 [DBA Training Plan 12: What Query Plans Are In Cache?](https://www.brentozar.com/archive/2019/08/dba-training-plan-12-what-query-plans-are-in-cache/)
 
+[https://github.com/microsoft/sql-server-samples/tree/master/samples/databases](https://www.brentozar.com/archive/2019/08/dba-training-plan-13-why-do-cached-plans-go-bad/)
+
 
 **First Responder Kit i więcej**
 
