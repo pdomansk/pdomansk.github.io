@@ -3,6 +3,8 @@ Ciekawy tutorial do artykułu o zmianach wersji
 https://littlekendra.com/2019/08/26/git-command-line-tutorial-with-sql-change-automation-for-ssms-video/
 
 
+Tutaj inny artykuł na temat użycia GitHub wraz z Visual strudio https://devblogs.microsoft.com/visualstudio/getting-started-with-github-actions-in-visual-studio/
+
 1. Dlaczego to jest takie ważne?
 2. Gdzie się to przechowywało ?
 3. Jak to się robiło wcześniej?
