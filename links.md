@@ -57,6 +57,8 @@ title: Links
 [SQL Server Maintenance Solution](https://github.com/olahallengren/sql-server-maintenance-solution )
 
 
+
+
 **MongoDB**
 [Podstawowe polecenia administracyjne](_pages/mongodb)
 
@@ -108,3 +110,7 @@ title: Links
 [Stairway to Columnstore Indexes](https://www.sqlservercentral.com/stairways/stairway-to-columnstore-indexes)
 
 [Indexing on Brent Ozar](https://www.brentozar.com/archive/category/indexing/)
+
+**Performance**
+
+[SQL Server Database Activity Based on Transaction Log Backup Size](https://www.mssqltips.com/sqlservertip/6096/sql-server-database-activity-based-on-transaction-log-backup-size/)
