@@ -4,6 +4,9 @@ title: Links
 ---
 # [](#header-1)Przydatne Linki
 
+Poniżej znajdziesz listę linków, które warto znać lub odpowiedzi na pytania, których szukasz. 
+
+
 **Fora internetowe i inne**
 
 [!!! **Tiger Tollbox ** !!!](https://github.com/Microsoft/tigertoolbox) - oficjalne repozytorium Microsoft SQL Server na GitHub
@@ -90,6 +93,12 @@ title: Links
 
 [https://github.com/microsoft/sql-server-samples/tree/master/samples/databases](https://www.brentozar.com/archive/2019/08/dba-training-plan-13-why-do-cached-plans-go-bad/)
 
+[DBA Training Plan 14: POP QUIZ!](https://www.brentozar.com/archive/2019/08/dba-training-plan-14-pop-quiz/)
+
+[DBA Training Plan 15: What’s Your SQL Server Waiting On?](https://www.brentozar.com/archive/2019/08/dba-training-plan-15-whats-your-sql-server-waiting-on/)
+
+[DBA Training Plan 16: Is It Time to Scale Out?](https://www.brentozar.com/archive/2019/08/dba-training-plan-16-is-it-time-to-scale-out/)
+
 
 **First Responder Kit i więcej**
 
@@ -110,6 +119,13 @@ title: Links
 [Stairway to Columnstore Indexes](https://www.sqlservercentral.com/stairways/stairway-to-columnstore-indexes)
 
 [Indexing on Brent Ozar](https://www.brentozar.com/archive/category/indexing/)
+
+[Are My SQL Server Indexes Being Used?](https://www.sqlservercentral.com/blogs/are-my-sql-server-indexes-being-used)
+
+**Tabele**
+
+[How to Update SQL Server Statistics for Big Tables](https://codingsight.com/how-to-update-sql-server-statistics-for-big-tables/)
+
 
 **Performance**
 

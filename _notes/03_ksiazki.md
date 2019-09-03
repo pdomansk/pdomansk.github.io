@@ -27,6 +27,16 @@ Książki przeczytane :
 6. (E) Codzienne rytuały. Jak pracują wielkie umysły -  Mason Currey
 7. (E) Plemię mentorów - Timothy Ferriss
 8. (A) Wstawaj i walcz. Sprawdzone strategie, techniki i nawyki produktywności ludzi sukcesu - Daymond John, Daniel Paisner
+9. (A) Alchemik - Paulo Coelho
+10. (A) Steve Jobs  - Walter Isaacson
+11. (E) Codzienne rytuały. Jak pracją wielkie umysły - Mason Currey
+12. (A) Nawyk nieodwlekania. Proste sposoby pokonania prokrastynacji. - S.J. Scott
+13. (R) Elon Musk. Biografia twórcy PayPala, Tesli, SpaceX - Vance Ashlee 
+14. (E) Innowatorzy - Walter Isaacson 
+15. (R) Mam kocioł w pracy, odrzuć chaos i niepokój - osiągnij sukces - Jason Fried, David Heinemeier Hansson
+16. (R) Pan raczy żartować Panie Feynman! - Richard P. Feynman
+17. (R) Algorytmy , Kiedy mniej myśleć i inne sposoby na racjolnalne życie - Tom Griffiths, Brian Christian
+18. (R) Mistrowskie mapowanie myśli - Tony Buzan
 
 Książki techniczne :
 1. (E) Budowanie aplikacji biznesowych za pomocą Windows Presentation Foundation i wzorca Model View ViewM - Garofalo Raffaele
