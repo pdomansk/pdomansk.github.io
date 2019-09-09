@@ -59,6 +59,7 @@ Poniżej znajdziesz listę linków, które warto znać lub odpowiedzi na pytania
 
 [SQL Server Maintenance Solution](https://github.com/olahallengren/sql-server-maintenance-solution )
 
+[PowerShell for the SQL DBA](https://groupby.org/conference-session-abstracts/powershell-for-the-sql-dba/)
 
 
 
@@ -91,13 +92,19 @@ Poniżej znajdziesz listę linków, które warto znać lub odpowiedzi na pytania
 
 [DBA Training Plan 12: What Query Plans Are In Cache?](https://www.brentozar.com/archive/2019/08/dba-training-plan-12-what-query-plans-are-in-cache/)
 
-[https://github.com/microsoft/sql-server-samples/tree/master/samples/databases](https://www.brentozar.com/archive/2019/08/dba-training-plan-13-why-do-cached-plans-go-bad/)
+[DBA Training Plan 13: Why Do Cached Plans Go Bad?](https://www.brentozar.com/archive/2019/08/dba-training-plan-13-why-do-cached-plans-go-bad/)
 
 [DBA Training Plan 14: POP QUIZ!](https://www.brentozar.com/archive/2019/08/dba-training-plan-14-pop-quiz/)
 
 [DBA Training Plan 15: What’s Your SQL Server Waiting On?](https://www.brentozar.com/archive/2019/08/dba-training-plan-15-whats-your-sql-server-waiting-on/)
 
 [DBA Training Plan 16: Is It Time to Scale Out?](https://www.brentozar.com/archive/2019/08/dba-training-plan-16-is-it-time-to-scale-out/)
+
+[DBA Training Plan 17: Should You Partition Your Tables?](https://www.brentozar.com/archive/2019/09/dba-training-plan-17-should-you-partition-your-tables/)
+
+[DBA Training Plan 18: Managing Concurrency](https://www.brentozar.com/archive/2019/09/dba-training-plan-18-managing-concurrency/)
+
+[DBA Training Plan 19: The L-Word, Licensing](https://www.brentozar.com/archive/2019/09/dba-training-plan-19-the-l-word-licensing/)
 
 
 **First Responder Kit i więcej**
@@ -130,3 +137,7 @@ Poniżej znajdziesz listę linków, które warto znać lub odpowiedzi na pytania
 **Performance**
 
 [SQL Server Database Activity Based on Transaction Log Backup Size](https://www.mssqltips.com/sqlservertip/6096/sql-server-database-activity-based-on-transaction-log-backup-size/)
+
+**Bezpieczeństwo**
+
+[Stairway to SQL Server Security Level 1: Overview of SQL Server Security](https://www.sqlservercentral.com/steps/stairway-to-sql-server-security-level-1-overview-of-sql-server-security)
