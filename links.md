@@ -106,6 +106,8 @@ Poniżej znajdziesz listę linków, które warto znać lub odpowiedzi na pytania
 
 [DBA Training Plan 19: The L-Word, Licensing](https://www.brentozar.com/archive/2019/09/dba-training-plan-19-the-l-word-licensing/)
 
+[DBA Training Plan 20: Planning Your Next Server](https://www.brentozar.com/archive/2019/09/dba-training-plan-20-planning-your-next-server/)
+
 
 **First Responder Kit i więcej**
 

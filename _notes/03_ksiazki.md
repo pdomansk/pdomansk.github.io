@@ -41,4 +41,4 @@ Książki przeczytane :
 Książki techniczne :
 1. (E) Budowanie aplikacji biznesowych za pomocą Windows Presentation Foundation i wzorca Model View ViewM - Garofalo Raffaele
 2. (E) Kubernetes. Tworzenie niezawodnych systemów rozproszonych - Kelsey Hightower, Brendan Burns, Joe Beda
-3. (E) Wprowadzenie do systemów baz danych. Wydanie VII - Ramez Elmasri, Shamkant B. Navathe
+3. --> INPOGRESS (E) Wprowadzenie do systemów baz danych. Wydanie VII - Ramez Elmasri, Shamkant B. Navathe
